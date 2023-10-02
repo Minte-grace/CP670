@@ -3,13 +3,17 @@
     <string name="app_name">አንድሮይድ፣የቤት፣ስራ</string>
     <string name="hello_message">ሠላም ዓለም!</string>
     <string name="ButtonText">አዝራር ነኝ</string>
-    <string name="LoginButtonText">ቀጣይ ገጽ አሳይ</string>
+    <string name="LoginButtonText">ግባ</string>
     <string name="login_name_label">ግባ</string>
     <string name="login_input_hint">መግቢያ ስም</string>
     <string name="password_label">የይለፍ ቃል</string>
     <string name="radio_button_label">የሬዲዮ አዝራር</string>
     <string name="check_box_label">አመልካች ሣጥን</string>
     <string name="switch_label">መቀየሪያ ሣጥን</string>
+    <string name="dialog_message">እንቅስቃሴውን መጨረስ ይፈልጋሉ?</string>
+    <string name="dialog_title">እንቅስቃሴን ጨርስ</string>
+    <string name="ok">አዎ</string>
+    <string name="cancel">አይ</string>
 </resources>
 
 
